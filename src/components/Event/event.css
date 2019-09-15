@@ -1,0 +1,31 @@
+.Is-free{
+    color: #008000; 
+    font-size: 16px; 
+    font-weight: 500;
+}
+
+.Font-set{
+    font-size:16px; 
+    font-weight: 600;
+    color: #000;
+}
+
+.Signup-Button{
+    opacity: 0.7;
+}
+
+.Sub-header{
+    color: #595959;
+    font-size:12px;
+    font-weight: 500;
+}
+
+.Container-style{
+    width: 60%;
+    min-width: 200px;
+}
+
+.Change-color:hover{
+    background-color:  #0063cc;
+    opacity: 1;
+}

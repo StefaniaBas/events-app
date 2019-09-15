@@ -1,0 +1,19 @@
+.Date-row{
+    width: 80%;
+    padding: 1% 0 1% 0;
+}
+
+.Date-style{
+    color: #000;
+    font-size:12px;
+    font-weight: 600;
+}
+
+.Container-style{
+    width: 80%;
+}
+
+.ContainerDate-style{
+    width: 75%;
+    min-width: 200px;
+}

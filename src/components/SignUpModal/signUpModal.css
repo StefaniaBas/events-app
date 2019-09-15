@@ -1,0 +1,23 @@
+.Modal-Style{
+    min-width: 385px;
+}
+
+.Modal-Header{
+    color: #4d4d4d;
+    background-color: #e6e6e6;
+    font-size: 6px;
+    float: center;
+}
+
+.Modal-title{
+    font-size: 12px;
+    position: absolute; 
+    right: 14rem;
+}
+
+.Modal-body{
+    color: #000;
+    font-size: 14px;
+    font-weight: 500;
+    height: 200px;
+}
