@@ -1,6 +1,6 @@
 import * as React from 'react';
 import EventsPerDay from '../components/EventsPerDay/eventsPerDay';
-import Filters from '../components/Filters/filters';
+import { Filters } from '../components/Filters/filters';
 import moment from 'moment';
 import streams from '../apis/streams';
 
