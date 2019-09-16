@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import AllEvents from './screens/AllEvents';
 import MyEvents from './screens/myEvents';
-import Menu from './components/Menu/menu';
+import {Menu} from './components/Menu/menu';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 const App: React.FC = () => {
